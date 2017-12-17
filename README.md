@@ -1,2 +1,2 @@
 # hello-world
-Initial directory
+This is akr44 and am just getting started.
